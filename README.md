@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidelaid&label=Profile%20views&color=0e75b6&style=flat" alt="rachidelaid" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **amoparkerprince78@gmail.com**
 
