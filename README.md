@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amo Parker Prince</h1>
-<h3 align="center">I'm a self thought developer from Ghana, I love learning new skills not just in the tech industry.</h3>
+<h3 align="center">I'm a self taught developer from Ghana, I love learning new skills not just in the tech industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidelaid&label=Profile%20views&color=0e75b6&style=flat" alt="rachidelaid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidelaid&label=Profile%20views&color=0e75b6&style=flat" alt="mrparkersson" /> </p>
 
 - 🌱 I’m currently learning **.NET**
 
